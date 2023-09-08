@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Played Basketball
+- [x] Has network of $400M
+- [ ] Is 4'2
